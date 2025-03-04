@@ -8,8 +8,7 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 
 
 
-# This is a Open Source Project
- licensed by chai-aur-backend
+
 
 ---------------
 You can find all the logic explanation of all the controllers and other functionalities written in the code as notes. 📝
